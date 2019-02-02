@@ -1,0 +1,5 @@
+N,K=map(int,input().split())
+a=str(N)
+b=str(K)
+c=a+b
+print(c)
